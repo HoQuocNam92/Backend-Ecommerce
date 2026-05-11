@@ -1,0 +1,124 @@
+[2026-01-03T10:55:56.072Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:55:56.073Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:55:56.075Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:55:56.076Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:55:56.082Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:55:56.384Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:55:57.086Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:55:57.087Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:55:57.094Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:55:57.095Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:55:57.394Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:55:59.097Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:55:59.098Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:55:59.105Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:55:59.106Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:55:59.405Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:56:03.114Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:56:03.116Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:56:03.123Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:56:03.124Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:56:03.412Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:56:38.508Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:56:38.510Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:56:38.512Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:56:39.516Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:56:39.523Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:56:41.527Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:56:41.533Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:56:45.555Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:56:52.492Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:56:52.497Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:56:55.239Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:56:57.251Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-01-03T10:57:01.270Z] ERROR : Database connection failed: ConnectionError: Failed to connect to localhost:1433 - Could not connect (sequence)
+[2026-05-11T11:04:51.548Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:04:51.567Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:04:54.254Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:04:54.257Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:04:56.948Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:04:56.951Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:04:59.760Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:04:59.761Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:05:02.463Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:05:02.465Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:05:05.174Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:05:05.174Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:05:07.581Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:07.582Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:10.276Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:10.277Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:11.349Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:11.350Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:11.677Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:11.677Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:17.469Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:17.470Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:19.581Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:19.582Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:20.187Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:20.188Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:22.288Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:22.288Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:23.361Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:23.362Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:23.689Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:23.689Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:33.599Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:33.599Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:36.284Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:36.285Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:37.358Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:37.359Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:37.699Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:37.699Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:43.709Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:47.804Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:47.805Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:54.625Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:54.625Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:54.625Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:54.626Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:54.626Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:54.626Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:54.626Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:54.626Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:54.628Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:54.628Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:54.628Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:54.629Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:05:54.717Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:06:09.638Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:06:09.639Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:06:09.640Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:06:09.640Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:06:09.641Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:06:09.641Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:06:09.642Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:06:09.642Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:06:09.643Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:06:09.643Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:06:09.644Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:06:09.645Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:15:32.484Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:15:32.487Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:17:29.374Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:17:29.385Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:17:32.073Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:17:32.075Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:17:34.779Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:17:34.779Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:17:37.580Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:17:37.610Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:17:49.080Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:17:49.084Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:17:51.786Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:17:51.787Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:17:54.483Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:17:54.484Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:17:57.187Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:17:57.189Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 - getaddrinfo ENOTFOUND mssql
+[2026-05-11T11:17:58.426Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:17:58.427Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:17:58.653Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
+[2026-05-11T11:17:58.653Z] ERROR : Database connection failed: ConnectionError: Failed to connect to mssql:1433 in 15000ms
