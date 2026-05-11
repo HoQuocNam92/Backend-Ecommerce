@@ -1,0 +1,33 @@
+name: Deploy Backend
+
+on:
+    push:
+        branches: [main]
+
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Prepare SSH
+              run: |
+                  mkdir -p ~/.ssh
+                  echo "${{ secrets.AZURE_SSH_KEY }}" > ~/.ssh/azure_key
+                  chmod 600 ~/.ssh/azure_key
+                  ssh-keyscan -H "${{ secrets.AZURE_HOST }}" >> ~/.ssh/known_hosts
+
+            - name: Deploy backend on Azure VM
+              run: |
+                  ssh -i ~/.ssh/azure_key ${{ secrets.AZURE_USER }}@${{ secrets.AZURE_HOST }} <<'EOF'
+                  set -e
+                  cd ~/server/Backend-Ecommerce
+                  git pull origin main
+                  docker build -t backend-ecommerce .
+                  docker rm -f backend || true
+                  docker run -d \
+                    --name backend \
+                    --restart unless-stopped \
+                    -p 8080:8080 \
+                    --env-file .env \
+                    backend-ecommerce
+                  EOF
