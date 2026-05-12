@@ -22,12 +22,12 @@ jobs:
                   set -e
                   cd ~/server/Backend-Ecommerce
                   git pull origin main
-                  docker build -t backend-ecommerce .
+                  docker build -t backend:latest .
                   docker rm -f backend || true
                   docker run -d \
                     --name backend \
                     --restart unless-stopped \
                     -p 8080:8080 \
                     --env-file .env \
-                    backend-ecommerce
+                    backend:latest
                   EOF
