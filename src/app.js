@@ -14,7 +14,7 @@ import { swaggerSetup } from '#src/shared/config/swagger.js';
 const app = express();
 
 app.use(cors({
-    origin: ["http://localhost:5173", "http://localhost:4173"],
+    origin: [process.env.FRONTEND_URL],
     credentials: true,
 }));
 app.use(express.urlencoded({ extended: true }));
@@ -27,7 +27,7 @@ app.use(express.json());
 app.use(useragent.express())
 // app.use(sanitizeRequest);
 // HTTP request logging
-// app.use(httpLogger);
+app.use(httpLogger);
 
 app.set('trust proxy', 1)
 
